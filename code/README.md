@@ -11,3 +11,6 @@ pip install -r requerements.txt
 streamlit run app.py
 ```
 
+Архитектура приложения
+
+![Архитектура](images/solution.png)
